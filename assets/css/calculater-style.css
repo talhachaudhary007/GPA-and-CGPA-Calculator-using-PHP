@@ -4,8 +4,13 @@
 @media (min-width: 600px) and (max-width: 900px) {
 
     .nav-link{
-        font-size: 14px !important;
+        font-size: 15px !important;
     }
+    .tab-title{
+        font-size: 34px !important;
+    }
+    .tab-btn{
+        padding: 12px !important;    }
 }
   
 .cgpa_calculator {
